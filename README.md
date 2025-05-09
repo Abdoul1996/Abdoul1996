@@ -26,6 +26,15 @@ I’ve earned a competitive **NIH fellowship**, which supported my research in c
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat-square&logo=keras&logoColor=white)
 
+### 📊 Stats & Data Science
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square)
+![Seaborn](https://img.shields.io/badge/-Seaborn-3B4D54?style=flat-square)
+![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![Statsmodels](https://img.shields.io/badge/-Statsmodels-000000?style=flat-square)
+![SciPy](https://img.shields.io/badge/-SciPy-8CAAE6?style=flat-square&logo=scipy&logoColor=white)
+
 **Bioinformatics**:  
 ![Biopython](https://img.shields.io/badge/-Biopython-228B22?style=flat-square)
 ![SAMtools](https://img.shields.io/badge/-SAMtools-4169E1?style=flat-square)
@@ -44,14 +53,6 @@ I’ve earned a competitive **NIH fellowship**, which supported my research in c
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Abdoul1996&layout=compact&theme=default)
 
 ---
-
-### 🔬 Projects
-
-- [`database-mongodb`](https://pypi.org/project/database-mongodb/): Automates MongoDB operations via a PyPI package  
-- [`appliance-power-ml`](https://github.com/Abdoul1996/appliance-power-ml): ML models for appliance energy consumption prediction  
-
----
-
 ### 🤝 Connect
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdoul-abdillahi/)
